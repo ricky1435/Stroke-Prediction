@@ -8,7 +8,7 @@
 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
-**Data:** The dataset is taken from (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
+**Data:** The dataset is taken from https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
 ## Kaggle link for the project
 * You also can view this project on [Kaggle](https://www.kaggle.com/ruthvikpvs/stroke-data-analysis-and-prediction)
