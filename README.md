@@ -13,6 +13,5 @@
 * You also can view this project on [Kaggle](https://www.kaggle.com/ruthvikpvs/stroke-data-analysis-and-prediction)
 
 ## Exploratory Data Analysis
-![alt text](https://github.com/ricky1435/Stroke-Prediction/blob/main/Work%20type%20and%20stroke.png "Relation between Work type and Stroke Occurence")
-![alt text](https://github.com/ricky1435/Stroke-Prediction/blob/main/Correlation%20Plot.png "Correlation Plot")
+![alt text](https://github.com/ricky1435/Stroke-Prediction/blob/main/Work%20type%20and%20stroke.png "Relation between Work type and Stroke Occurence")![alt text](https://github.com/ricky1435/Stroke-Prediction/blob/main/Correlation%20Plot.png "Correlation Plot")
 
