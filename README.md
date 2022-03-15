@@ -40,5 +40,5 @@ As I am considering AUC as my measure of model performance, **Logistic Regressio
 * **Decisions Tree Classifier** - AUC: 0.55
 * **Random Forest Classifier** - AUC: 0.76
 
-### Author
-Ruthvik PVS
+## Author
+[Ruthvik PVS](https://github.com/ricky1435)
