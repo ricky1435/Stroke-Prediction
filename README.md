@@ -6,7 +6,7 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, streamlit
 
 **Data:** The dataset is taken from https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
